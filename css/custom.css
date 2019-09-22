@@ -1,0 +1,35 @@
+.frame{
+    padding:15px auto 0 auto;
+    width:100%;
+}
+
+.result{
+    height:80px;
+    width:100%;
+    padding: 10px 0 10px 0;
+}
+.result>p{
+    font-size:50px;
+    color:white;
+}
+
+.pad > div{
+    color:white;
+}
+
+.button {
+    width: 60px;
+    height: 50px;
+    padding-top:12px;
+    background-color:gray;
+    text-align: center;
+    color:white;
+}
+
+.top{
+    background-color: darkslategrey;
+}
+
+.zero{
+    width:120px;
+}
